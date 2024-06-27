@@ -20,13 +20,13 @@ I hope this disclaimer clears up any misunderstandings and assists you in approa
 
 | Days      | Topic |
 | ----------- | ----------- |
-| Day 1   | [Introduction to Python](Projects/day1.md)       |
-| Day 2   | [Python Loops, functions, modules and libraries](Projects/day2.md)        |
+| Day 1   | [Python Fundamentals](Projects/day1.md)       |
+| Day 2   | [Python Conditions, Loops, functions, modules and libraries](Projects/day2.md)        |
 | Day 3   | [Python Data Structures and OOP](Projects/day3.md)       |
-| Day 4   | [Debugging, testing and Regular expression](Projects/day4.md)        |
-| Day 5   | [Web development in Python](Projects/day5.md)       |
+| Day 4   | [Debugging, testing and Error handling](Projects/day4.md)        |
+| Day 5   | [Working with files, OS, datetime and Calender modules in Python](Projects/day5.md)       |
 | Day 6   | [Automation with Python](Projects/day6.md)        |
-| Day 7   | [Let's build an App in Python](Projects/day7.md)        |
+| Day 7   | [Let's build some automation tools in Cybersecurity](Projects/day7.md)        |
 
 
 
