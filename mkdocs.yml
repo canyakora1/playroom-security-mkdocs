@@ -35,8 +35,6 @@ extra:
       link: https://twitter.com/d_cyberguy
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/chinedu-anyakora-32025294
-    - icon: fontawesome/brands/Medium
-      link: https://medium.com/@dcyberguy6
 
 
 markdown_extensions:
