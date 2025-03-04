@@ -1,8 +1,45 @@
-site_name: Python 4 Cybersecurity Tutorial
+site_name: Playroom Security
+nav:
+  - Home: index.md
+  - About: about.md
+  - Services:
+      - Penetration Testing: services/penetration-testing.md
+      - Vulnerability Assessment: services/vulnerability-assessment.md
+      - Security Awareness Training: services/security-awareness-training.md
+  - Blog: blog.md
+  - Contact: contact.md
+  - Resources:
+      - Cybersecurity Tools: resources/cybersecurity-tools.md
+      - Cybersecurity News: resources/cybersecurity-news.md
+      - Cybersecurity Events: resources/cybersecurity-events.md
+      - Cybersecurity Jobs: resources/cybersecurity-jobs.md
+      - Cybersecurity Certifications: resources/cybersecurity-certifications.md
+      - Cybersecurity Books: resources/cybersecurity-books.md
+      - Cybersecurity Podcasts: resources/cybersecurity-podcasts.md
+      - Cybersecurity Blogs: resources/cybersecurity-blogs.md
+      - Cybersecurity Conferences: resources/cybersecurity-conferences.md
+      - Cybersecurity Forums: resources/cybersecurity-forums.md
+      - Cybersecurity Magazines: resources/cybersecurity-magazines.md
+      - Cybersecurity Videos: resources/cybersecurity-videos.md
+      - Cybersecurity Courses: resources/cybersecurity-courses.md
+      - Cybersecurity Webinars: resources/cybersecurity-webinars.md
+      - Cybersecurity Workshops: resources/cybersecurity-workshops.md
+      - Cybersecurity Bootcamps: resources/cybersecurity-bootcamps.md
+      - Cybersecurity Scholarships: resources/cybersecurity-scholarships.md
+      - Cybersecurity Internships: resources/cybersecurity-internships.md
+      - Cybersecurity Fellowships: resources/cybersecurity-fellowships.md
+      - Cybersecurity Competitions: resources/cybersecurity-competitions.md
+      - Cybersecurity Challenges: resources/cybersecurity-challenges.md
+      - Cybersecurity Hackathons: resources/cybersecurity-hackathons.md
+      - Cybersecurity CTFs: resources/cybersecurity-ctfs.md
+      - Cybersecurity Capture The Flags: resources/cybersecurity-capture-the-flags.md
+      - Cybersecurity Bug Bounties: resources/cybersecurity-bug-bounties.md
+      - Cybersecurity Vulnerability Disclosure Programs: resources/cybersecurity-vulnerability-disclosure-programs.md
+      - Cybersecurity Responsible Disclosure Programs: resources/cybersecurity-responsible-disclosure-programs.md
 site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
-  features:
+  features: 
     - navigation.tabs
     - navigation.sections
     - toc.integrate
